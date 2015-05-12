@@ -1,1 +1,9 @@
 F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\bin\Debug\AdmissionFeeApp.exe.config
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\bin\Debug\AdmissionFeeApp.exe
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\bin\Debug\AdmissionFeeApp.pdb
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.csprojResolveAssemblyReference.cache
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.Form1.resources
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.Properties.Resources.resources
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.csproj.GenerateResource.Cache
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.exe
+F:\GitUplodProgram\AdmissionFeeApp\AdmissionFeeApp\obj\Debug\AdmissionFeeApp.pdb
